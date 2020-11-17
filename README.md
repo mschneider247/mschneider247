@@ -1,12 +1,11 @@
 ![GithubBackground](https://user-images.githubusercontent.com/21366524/99309620-fc2aff80-2816-11eb-955b-c4039396f024.jpg)
 
-### Hello! My name is Michael Schneider.
-💻⚡ I'm a Front-End Developer with a passion for illustrating and creating content.
+### Hello! My name is Michael Schneider 👋
+💻⚡ I'm a Front-End Developer with a passion for illustrating and creating original content.
+
+
 
 <!-- **mschneider247/mschneider247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
----- EXAMPLE
-I'm a Front End Web Developer, Graphic Designer, Content Creator and Junior Cybersecurity Consultant/Analyst from Kenya. I'm also currently doing my Bsc in IT while working on my company and other projects. I currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(the irony), Sustainability, Neural Nets, Hugo, S.E.O, Web Performance, Blogging/Vlogging/"Podgging"/Logging and Automation. When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime
 
 Interested in Collaborating or Donating/Sponsering My Projects? Click here
 📰 Blog Posts
