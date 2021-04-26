@@ -6,7 +6,7 @@
 🌱 Create a greenhouse VR experience for Nebullam optimized for the Quest 2 <br>
 👯 Happy to collaborate on world building and making dreams come to life! 🚀🚀🚀 <br>
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mschneider247&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/mschneider247/github-readme-stats)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mschneider247&count_private=true&show_icons=true&theme=dark)](https://github.com/mschneider247/github-readme-stats)
 
 
 
