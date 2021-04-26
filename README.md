@@ -1,7 +1,6 @@
 ![GithubBackground](https://user-images.githubusercontent.com/21366524/99309620-fc2aff80-2816-11eb-955b-c4039396f024.jpg)
 
-### Hello! My name is Michael Schneider 👋
-😄 Pronouns, he/him <br>
+### Hello! My name is Michael Schneider 👋 😄 Pronouns, he/him <br>
 💻⚡ I'm a Front-End Developer with a passion for illustrating and creating original content. <br>
 🔭 Currently learning Blender, Unity and Oculus Design/Development so I can <br>
 🌱 Create a greenhouse VR experience for Nebullam optimized for the Quest 2 <br>
