@@ -1,4 +1,4 @@
-![GithubBackground](https://user-images.githubusercontent.com/21366524/99309620-fc2aff80-2816-11eb-955b-c4039396f024.jpg)
+![AprilSocialMediaBackground](https://user-images.githubusercontent.com/21366524/116016831-10abc900-a5fb-11eb-8ebd-97638d3fc40f.jpg)
 
 ### Hello! My name is Michael Schneider 👋 😄 Pronouns, he/him <br>
 💻⚡ I'm a Front-End Developer with a passion for illustrating and creating original content. <br>
