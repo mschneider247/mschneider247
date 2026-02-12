@@ -1,12 +1,34 @@
-![AprilSocialMediaBackground](https://user-images.githubusercontent.com/21366524/116017314-7ea4c000-a5fc-11eb-8f5e-ccb734ab6973.jpg)
+![Header Image](https://user-images.githubusercontent.com/21366524/116017314-7ea4c000-a5fc-11eb-8f5e-ccb734ab6973.jpg)
 
-### Hello! My name is Michael Schneider 👋 😄 Pronouns, he/him <br>
-💻⚡ I'm a Software Engineer with a passion for illustrating and creating original content. <br>
-🔭 Currently learning how to interact with Ollama <br>
-🌱 Illustrating the tales of Charlotte the leaf in 'Travels of a Falling Leaf' <br>
-👯 Happy to collaborate on world building and making dreams come to life! 🚀🚀🚀 <br>
+# Michael Schneider
+**Full-Stack Developer & Creative Technologist**
 
+💼 Founder of [Social Sin LLC](https://socialsinhq.com) | 📚 Published Author-Illustrator | 🎮 Gamification Enthusiast
 
+## 🚀 What I'm Building
 
+Currently developing full-stack applications for clients across agriculture, gaming, and retail:
 
-<!-- **mschneider247/mschneider247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **SmartProbe** - Agricultural field mapping application for Terraform Tillage LLC (Firebase/Firestore, modern web platform)
+- **PlayerHUD** - Gaming tournament platform for FTHUDS.com
+- **BirthdayScroll** - Mobile treasure hunt experience for The Wizard's Chest
+- **HabitBeast** - React Native habit-tracking app with PvP combat mechanics
+
+## 🛠️ Tech Stack
+
+Full-stack development with React/React Native, Firebase/Firestore, Node.js, and modern web technologies. Experience with mobile app development (Java/Kotlin → modern web transitions), API integrations, payment processing (Stripe), and data analysis tools.
+
+## 📖 Creative Work
+
+Published children's book author-illustrator with two titles on Amazon:
+- *Elvis the Selfish Shellfish*
+- *Following October*
+
+Currently working on a third illustrated book and serializing the sci-fi novel *Abrigado* on Medium.
+
+## 🤝 Let's Connect
+
+Open to collaborating on innovative projects that blend technology with creative storytelling. Specializing in gamification, interactive applications, and bringing ambitious ideas to life.
+
+---
+💡 *"Making dreams come to life through code and creativity"* 🚀
