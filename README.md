@@ -1,6 +1,7 @@
-![Header Image](https://user-images.githubusercontent.com/21366524/116017314-7ea4c000-a5fc-11eb-8f5e-ccb734ab6973.jpg)
+<img width="1500" height="500" alt="github-header-michael-schneider" src="https://github.com/user-attachments/assets/182b8242-284a-49bf-9e6e-faeafe5e8b6f" />
 
 # Michael Schneider
+
 **Full-Stack Developer & Creative Technologist**
 
 💼 Founder of [Social Sin LLC](https://socialsinhq.com) | 📚 Published Author-Illustrator | 🎮 Gamification Enthusiast
